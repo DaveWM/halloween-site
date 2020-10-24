@@ -8,19 +8,19 @@
     [:img {:src "https://www.freepnglogos.com/uploads/pumpkin-png/halloween-pumpkin-icon-1.png"
            :width "40%"}]]
    [:p.lead
-    "The 52 of Brodie Avenue opens up again for the most terrifying online experience.
+    "On Halloween, the 52 of Brodie Avenue opens up again for the most terrifying online experience.
       We know events, parties, etc. got cancelled, but Halloween cannot die!"]
    [:p.lead "All you need to survive this terrifying night is a spooky costume (or makeup), and plenty of drinks in your fridge."]
    [:p.lead "This is what you can expect, if you're prepared:"]
    [:dl.timetable
     [:dt "6pm - 8pm"]
-    [:dd "A warmup with " [:a {:href "https://www.youtube.com/watch?v=aKzxlgrkEqs"
+    [:dd "A warmup with " [:a {:href "https://www.netflix.com/watch/70251894"
                                :target "_blank"} "The Conjuring"] " while we eat."]
     [:dt "8pm - 9pm"]
     [:dd "We'll play a " [:a {:href "https://www.triviaquestionss.com/halloween-trivia-questions-with-answers/"
-                              :target "_blank"} "trivia game"] ", with drinks and (spooky) shots."]
+                              :target "_blank"} "trivia game"] " (no cheating!), with drinks and (spooky) shots."]
     [:dt "9pm - 11pm"]
-    [:dd "The grand finale - for the last pass, we have the movie " [:a {:href "https://www.youtube.com/watch?v=kWiH31rkZU0"
+    [:dd "The grand finale - for the last pass, we have the movie " [:a {:href "https://www.netflix.com/watch/70221486"
                                                                          :target "_blank"}
                                                                      "Sinister"] "."]]])
 
