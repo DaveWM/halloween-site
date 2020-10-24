@@ -1,0 +1,41 @@
+body {
+    color: #FF9100 !important;
+    font-family: 'Creepster', cursive !important;
+    background: url(https://www.iconwallstickers.co.uk/media/catalog/product/cache/5/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42464.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.75);
+    background-blend-mode: darken;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 85px;
+}
+
+main p {
+    font-size: 28px !important;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.timetable {
+    border: 1px solid #FF9100;
+    padding: 20px;
+    border-radius: 9px;
+    font-size: 28px;
+}
+
+.timetable dt {
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
