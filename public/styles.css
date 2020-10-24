@@ -39,3 +39,7 @@ a {
     color: white;
     text-decoration: underline;
 }
+
+a:hover {
+    color: #FF9100;
+}

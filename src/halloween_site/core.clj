@@ -22,7 +22,11 @@
     [:dt "9pm - 11pm"]
     [:dd "The grand finale - for the last pass, we have the movie " [:a {:href "https://www.netflix.com/watch/70221486"
                                                                          :target "_blank"}
-                                                                     "Sinister"] "."]]])
+                                                                     "Sinister"] "."]]
+   [:p
+    [:a {:href "https://meet.google.com/oqw-yxje-dcj"
+         :target "_blank"}
+     "Click here to join the video call - if you dare!"]]])
 
 (def page
   [:html
