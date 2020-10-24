@@ -38,9 +38,9 @@
    [:body
     content]])
 
-(defn main [& args]
+(defn -main [& args]
   (println "Running...")
   (spit "public/index.html" (h/html page)))
 
-(main)
+(-main)
 
